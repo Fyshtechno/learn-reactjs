@@ -1,0 +1,15 @@
+/* Reset all default style */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  width: 100wh;
+  height: 70px;
+  background-color: red;
+}
+
+/* Cooolll */
+/* Tah ges d contoan sok teruskeun */
+/* Tapi da ges make bootstrap kudu na te loba nulis CSS */
